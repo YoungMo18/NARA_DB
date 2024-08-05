@@ -12,7 +12,7 @@
 	<artifactId>Server-side_NHRL_DB</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Server-side_NHRL_DB</name>
-	<description>Server-side application for Natural Heritage Research Lab&apos;s Non-record Material&apos;s SQL Database</description>
+	<description>Server-side application for Natural Heritage Research Lab&apos;s Non-record material database</description>
 	<url/>
 	<licenses>
 		<license/>
